@@ -22,7 +22,7 @@ Both of these files use blender python modules (bpy and bmesh) as well as other 
 ### Way #1 
     1. Open a new Blender file
     2. Change the editor type to text editor
-    3. From the text tab in the text editor, you can either copy and paste the code to the text editor or directly open the code from the test editor
+    3. From the text tab in the text editor, you can either copy and paste the code to the text editor or directly open the code from the text editor
     4. Press ALT+P to run the script (from a windows) or do it directly by opening the text tab and pressing Run Script
 ### Way #2
     1. Open a new Blender file
