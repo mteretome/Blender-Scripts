@@ -1,14 +1,14 @@
-#bouncing_balls.py
+# bouncing_balls.py
  a blender script  that creates n spheres and makes them into n balls and then animates them so it appears they bounce
     - automated tasks: creating smooth spheres, bouncing effect
     - graphics: n balls created that bounce on command
 
 
 
-#solar_system.py
+# solar_system.py
 a blender script that creates a scale model of the solar system
     - automated tasks: creating spheres, smooth function, color function, make all planets function, make orbit paths
-	- graphics : colorful solar system to scale with orbit paths drawn
+    - graphics : colorful solar system to scale with orbit paths drawn
 	
 
 
